@@ -46,10 +46,7 @@ This process repeats until consensus is reached (all agents share the same opini
 
 ---
 
-## 🖼 Example Visualization
-![Consensus Time Distribution](docs/consensus_plot.png)
 
----
 
 ## 🛠 How to Run Locally
 
@@ -99,5 +96,5 @@ This project is licensed under the MIT License – see [LICENSE](LICENSE) for de
 
 ## 👤 Author
 **Mahmudul Hasan**  
-Master’s in Business Analytics – TU Graz  
+Master’s of Computational Social System (Business Analytics) at Technical University of Graz & University of Graz 
 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/Mahmudul-Hasan-24)
