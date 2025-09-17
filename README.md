@@ -1,5 +1,5 @@
 
-
+## "Sharp transition towards shared vocabularies in multi-agent systems"
 ## 📌 Project Overview
 This project implements an **agent-based model** to study opinion spreading and consensus formation on different network structures.  
 The aim is to explore how **network topology** and **interaction rules** affect the **time to consensus** and overall opinion dynamics.
